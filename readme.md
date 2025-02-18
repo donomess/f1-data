@@ -1,0 +1,1 @@
+This repo is to serve as a visualization of every f1 season on demand. Input the year you want to analyze and you will be able to visualize winners, podium placers, points tracking, and all time stats.
